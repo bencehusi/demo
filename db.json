@@ -1,9 +1,30 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
+  "cases": {
+  "content": {
+    "1": {
+      "client": "ACME Gmbh.",
+      "title": "Advertising Outdoors With Extra Attention",
+      "image": "https://picsum.photos/1000/500/?random",
+      "slug": "advertising-outdoors-with-extra-attention",
+      "excerpt": "One morning, when Gregor Samsa woke from a dreams, he found himself transformed in his bed into a horrible vermin.",
+      "content": "Successful businesses have many things in common, today we’ll look at the big ‘R’of recognition and how a digital advertising network may help.\n\nRecognition can be illustrated by two individuals entering a crowded room at a party. Both walk to the far side of the room, one of them slips through the crowd easily and unnoticed as they reach the far side. The second person takes much longer to reach the far side because they are engaged in conversations along the way as they continue to meet acquaintances and friends during their path. Which type of person would you like to model your business after?\n\nYour business is in a continual battle for your customers’ recognition whether you know it or not. If you happen to be fortunate enough to be in a marketplace with very few competitors, that will not last for long. You need your business to be at the forefront of your client’s minds so that when they require your products or services, you are the go-to people.",
+      "quote": "Recognition can be illustrated by two individuals entering a crowded room at a party. Both walk to the far side of the room, one of them slips through the crowd easily and unnoticed as they reach the far side. The second person takes much longer.",
+      "quoted": "Chris Conell",
+      "quoted_role": "Chief Marketing Officer"
+    },
+    "2": {
+      "client": "Reedijk Wheels and Tyres Group B.V.",
+      "title": "Reedijkgroup B2B",
+      "image": "https://picsum.photos/1000/500/?random",
+      "slug": "reedijkgroup-b2b",
+      "excerpt": "One morning, when Gregor Samsa woke from a dreams, he found himself transformed in his bed into a horrible vermin.",
+      "content": "Successful businesses have many things in common, today we’ll look at the big ‘R’of recognition and how a digital advertising network may help.\n\nRecognition can be illustrated by two individuals entering a crowded room at a party. Both walk to the far side of the room, one of them slips through the crowd easily and unnoticed as they reach the far side. The second person takes much longer to reach the far side because they are engaged in conversations along the way as they continue to meet acquaintances and friends during their path. Which type of person would you like to model your business after?\n\nYour business is in a continual battle for your customers’ recognition whether you know it or not. If you happen to be fortunate enough to be in a marketplace with very few competitors, that will not last for long. You need your business to be at the forefront of your client’s minds so that when they require your products or services, you are the go-to people.",
+      "quote": "Oh?",
+      "quoted": "Wouter van Wingerden",
+      "quoted_role": "Director of Operations"
+    }
+  }
+},
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
